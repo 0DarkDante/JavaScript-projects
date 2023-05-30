@@ -1,4 +1,4 @@
-# Vey-up-js
+# JS tools
 
 * Slider development on JavaScript
 * Development of a modal window on JavaScript
